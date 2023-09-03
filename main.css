@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(24, 28, 66);
+}
+
+.buttonn1 {
+  border: none;
+  background-color: beige;
+  padding: 12px 40px;
+  border-radius: 20px;
+  color: #fff;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+.hero {
+    height: 100%;
+    width: 100%;
+}
+.textt {
+    color: black;
+    background: white;
+}
+.form-box {
+  width: 380px;
+  height: 480px;
+  margin: 0 auto;
+  margin-top: 120px;
+  background: #fff;
+  padding: 5px;
+  border-radius: 20px;
+  box-shadow: 1px 10px 50px 10px rgb(163, 42, 255);
+  
+}
+.button-box {
+  width: 160px;
+  margin: 35px auto;
+  background-color: white;
+  border-radius: 30px;
+}
+.toggle-btn {
+  padding: 10px 30px;
+  border: none;
+  outline: none;
+  background: beige;
+  border-radius: 20px;
+  margin-left: 27px;
+  font-family: sans-serif;
+}
+.form {
+    background-color:#fff;
+    width: 280px;
+    transition: 0.5s;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+.input-filter {
+  width: 100%;
+  padding: 10px 0;
+  margin: 5px 0;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  border-bottom: 1px solid #999;
+  outline: none;
+  background: transparent;
+}
+.check-box {
+  margin: 30px 10px 30px 0;
+}
+.submit-btn {
+  width: 50%;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  background: beige;
+  border: none;
+  border-radius: 30px;
+  outline: none;
+}
+.submit-btn:hover {
+  border-radius: 25px;
+  color: black;
+}
+.submit-btn2 {
+  width: 50%;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  background: beige;
+  border: none;
+  border-radius: 30px;
+  outline: none;
+  margin-top: 10px;
+}
+.submit-btn2:hover {
+  border-radius: 25px;
+  color: black;
+}
+span {
+    font-family: sans-serif;
+    color: black;
+    font-size: 12px;
+    bottom: 110px;
+    background: white;
+}
+#login {
+    margin-top: 80px;
+}
+
